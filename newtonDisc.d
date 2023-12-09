@@ -30,7 +30,7 @@ void main()
         foreach (i; 0 .. 7)
         {
             // select a color
-    	        painter.outlineColor = colors[i];
+            painter.outlineColor = colors[i];
 
             // use a loop to draw each line of the current color, many consecutive lines will form a section of the disc
             foreach (j; 0 .. 410)
