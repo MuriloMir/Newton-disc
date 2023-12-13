@@ -1,2 +1,2 @@
 # Newton-disc
-A software which draws a spinning Newton disc until it turns white. Written in D.
+A software which draws a spinning Newton disc until it turns white. Written in D with the arsd library.
