@@ -6,7 +6,7 @@ import std.math : cos, round, sin;
 void main()
 {
     // create the window for the GUI
-    SimpleWindow window = new SimpleWindow(800, 800, "Disco de Newton");
+    SimpleWindow window = new SimpleWindow(800, 800, "Newton Disc");
     // create the 7 colors of the rainbow
     Color[7] colors = [Color(254, 0, 0), Color(255, 127, 0), Color(255, 255, 0), Color(0, 128, 1), Color(0, 0, 254), Color(75, 0, 129),
                        Color(148, 0, 212)];
