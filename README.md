@@ -1,7 +1,7 @@
 # Newton-disc
 A software which draws a spinning Newton disc until it turns white. Written in D with the arsd library.
 
-Download this source code along with the arsd library which can be found here: https://github.com/adamdruppe/arsd.
+Download this source code along with the arsd library which can be found here on this page.
 
 Then just compile it using the DMD compiler and the command "dmd newtonDisc -m64 -i -J. -O -g".
 
