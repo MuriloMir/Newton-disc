@@ -3,6 +3,7 @@
 import arsd.simpledisplay : Color, Point, ScreenPainter, SimpleWindow;
 import std.math : cos, round, sin;
 
+// start the software
 void main()
 {
     // create the window for the GUI
