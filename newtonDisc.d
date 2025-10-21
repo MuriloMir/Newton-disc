@@ -1,7 +1,7 @@
 // This software will draw a Newton disc and make it spin until it all turns white.
 
 // import all the tools we need
-import arsd.simpledisplay : Color, Point, ScreenPainter, SimpleWindow;
+import multimedia.display : Color, Point, ScreenPainter, SimpleWindow;
 import std.math : cos, round, sin;
 
 // start the software
